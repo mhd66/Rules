@@ -757,3 +757,15 @@ payload:
   - IP-CIDR,75.126.0.0/16,no-resolve
   - IP-CIDR,174.37.0.0/16,no-resolve
   - IP-CIDR,208.43.0.0/16,no-resolve
+  
+  # > Apple
+  - DOMAIN,developer.apple.com
+  - DOMAIN-SUFFIX,digicert.com
+  #- PROCESS-NAME,trustd
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN,testflight.apple.com
+  - DOMAIN,sandbox.itunes.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
+  - DOMAIN,cvws.icloud-content.com
