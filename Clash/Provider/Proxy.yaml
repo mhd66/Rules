@@ -215,7 +215,7 @@ payload:
   - DOMAIN-SUFFIX,getpricetag.com
   - DOMAIN-SUFFIX,gfw.press
   - DOMAIN-SUFFIX,gfx.ms
-  - DOMAIN-SUFFIX,ggpht.com
+  #- DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
@@ -613,7 +613,7 @@ payload:
   - DOMAIN-SUFFIX,yourlisten.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,yoyo.org
-  - DOMAIN-SUFFIX,ytimg.com
+  #- DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zacebook.com
   - DOMAIN-SUFFIX,zalmos.com
   - DOMAIN-SUFFIX,zaobao.com.sg
