@@ -1,7 +1,10 @@
 payload:  
-  - DOMAIN-KEYWORD,www.google.
+  - DOMAIN-KEYWORD,google
 # > Google Drive
   - DOMAIN-SUFFIX,docs.google.com
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googleusercontent.com
+ # > Google
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
