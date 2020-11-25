@@ -1,4 +1,4 @@
-#payload:
+payload:
   #- DOMAIN,developer.apple.com
   #- DOMAIN-SUFFIX,digicert.com
   #- PROCESS-NAME,trustd
