@@ -759,13 +759,13 @@ payload:
   - IP-CIDR,208.43.0.0/16,no-resolve
   
   # > Apple
-  - DOMAIN,developer.apple.com
-  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN,developer.apple.com,force-remote-dns  
+  - DOMAIN-SUFFIX,digicert.com,force-remote-dns  
   #- PROCESS-NAME,trustd
-  - DOMAIN-SUFFIX,apple-dns.net
-  - DOMAIN,testflight.apple.com
-  - DOMAIN,sandbox.itunes.apple.com
-  - DOMAIN-SUFFIX,itunes.apple.com
-  - DOMAIN-SUFFIX,apps.apple.com
-  - DOMAIN-SUFFIX,blobstore.apple.com
-  - DOMAIN,cvws.icloud-content.com
+  - DOMAIN-SUFFIX,apple-dns.net,force-remote-dns
+  - DOMAIN,testflight.apple.com,force-remote-dns
+  - DOMAIN,sandbox.itunes.apple.com,force-remote-dns
+  - DOMAIN-SUFFIX,itunes.apple.com,force-remote-dns
+  - DOMAIN-SUFFIX,apps.apple.com,force-remote-dns
+  - DOMAIN-SUFFIX,blobstore.apple.com,force-remote-dns
+  - DOMAIN,cvws.icloud-content.com,force-remote-dns
